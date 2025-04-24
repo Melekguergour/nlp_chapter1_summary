@@ -13,7 +13,7 @@ This repository contains the summarized content and projects from **Chapter 1** 
 The notebook already includes all necessary libraries and installation steps. You can simply execute the code and install the dependencies 
 
 # Running the Notebook
-The notebook contains the code needed to install required libraries (like transformers, torch, etc.) and run the examples. Just follow the instructions in the notebook itself to get started.
+The notebook contains the code needed to install required libraries and run the examples. Just follow the instructions in the notebook itself to get started.
 
 # Technologies Used
 - Hugging Face Transformers: A popular library for working with state-of-the-art transformer models.
