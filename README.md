@@ -7,9 +7,6 @@ This repository contains the summarized content and projects from **Chapter 1** 
 - `main.ipynb`: The Jupyter Notebook that summarizes the first chapter, including key concepts, examples, and applications of transformers in NLP.
 - `img/`: A folder containing images that support the explanations and visualizations in the notebook.
 
-## Getting Started
-
-To run the notebook locally, follow these steps:
 
 ### Prerequisites
 
